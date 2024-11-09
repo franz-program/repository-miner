@@ -1,5 +1,8 @@
 package uf.projects
 
+import uf.projects.search.SearchService
+
 fun main() {
-    println("Hello World!")
+    val searchService = SearchService()
+    searchService.runSearch()
 }
