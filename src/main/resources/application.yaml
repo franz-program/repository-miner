@@ -1,3 +1,0 @@
-spring:
-  data:
-    pat: github_pat_XXXXX # Add your GitHub PAT here
