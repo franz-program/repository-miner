@@ -25,7 +25,9 @@ dependencies {
 
 
     // https://mvnrepository.com/artifact/org.kohsuke/github-api
-    implementation("org.kohsuke:github-api:1.318")
+    implementation("org.kohsuke:github-api:2.0.0-alpha-2")
+
+
 
     testImplementation("org.springframework.boot:spring-boot-starter-test")
     testRuntimeOnly("org.junit.platform:junit-platform-launcher")
